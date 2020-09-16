@@ -32,3 +32,6 @@ Flash FC with BF 4.2.2 (MATEKF411)
 Copy contents of TXT file into CLI, PRESS ENTER.
 Reboot, CALIBRATE ACCELEROMETER, customize.
 FLY, CRASH, REBUILD, REPEAT!
+
+I hope you find this project helpful, maybe it's worth a coffee?              
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JMWLDV3F3E8CY)
