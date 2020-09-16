@@ -29,5 +29,6 @@ TBS SP (TX2)
 Usage:
 Flash FC with BF 4.2.2 (MATEKF411)
 "restore" Json file in configurator.
-Copy contents of TXT file into CLI.
-Reboot, customize.
+Copy contents of TXT file into CLI, PRESS ENTER.
+Reboot, CALIBRATE ACCELEROMETER, customize.
+FLY, CRASH, REBUILD, REPEAT!
