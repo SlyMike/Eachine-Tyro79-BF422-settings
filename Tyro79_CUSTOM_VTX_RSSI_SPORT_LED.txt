@@ -4,6 +4,8 @@ DIFF all
 # Betaflight / STM32F411 (S411) 4.2.2 Aug 16 2020 / 01:47:01 (e833ac612) MSP API: 1.43
 # config: manufacturer_id: MTKS, board_name: MATEKF411, version: be0c9205, date: 2020-01-15T19:44:32Z
 
+# Slymike's custom config. Insta@randmshiz.
+
 # start the command batch
 batch start
 
