@@ -17,7 +17,7 @@ VTX table for XF5805_V6 video transmitter.
 
 Notes: 
 You must short the RX jumper next to the RX connector to either SBUS OR PPM, connect either outside pad to the middle pad with a blob of solder. 
-Analog RSSI is not configured by default using the MaytekF411 custom defaults. 
+Analog RSSI is not configured by default using the MATEKF411 custom defaults. (use this if connecting RSSI output from RX)
 This kit may come with a wrongly pinned VTX cable! 
 Check connector against VTX silk screen. 
 FC VTX connector has the following pinout: 
@@ -25,3 +25,9 @@ FC VTX connector has the following pinout:
 2 +V (5V reg) 
 3 Video 4 
 TBS SP (TX2)
+
+Usage:
+Flash FC with BF 4.2.2 (MATEKF411)
+"restore" Json file in configurator.
+Copy contents of TXT file into CLI.
+Reboot, customize.
