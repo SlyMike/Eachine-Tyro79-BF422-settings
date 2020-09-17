@@ -18,19 +18,25 @@ VTX table for XF5805_V6 video transmitter.
 Notes: 
 You must short the RX jumper next to the RX connector to either SBUS OR PPM, connect either outside pad to the middle pad with a blob of solder. 
 Analog RSSI is not configured by default using the MATEKF411 custom defaults. (use this if connecting RSSI output from RX)
+This FC will NOT run an 8k PID loop, use 4k plus DSHOT300.
 This kit may come with a wrongly pinned VTX cable! 
-Check connector against VTX silk screen. 
+Check connector against VTX silk screen, connect "DATA" on VTX to UART 2 TX (TX2) pad. 
+
 FC VTX connector has the following pinout: 
-1 GND 
-2 +V (5V reg) 
-3 Video 4 
-TBS SP (TX2)
+1,GND 
+2,+V (5V reg) 
+3,Video 
+4,TBS SP (TX2)
 
 Usage:
 Flash FC with BF 4.2.2 (MATEKF411)
 
+Restoring the json file in the configurator will give you the full setup including my control layout using an SBUS reciever (FRSKY XSR-M).
+
 Copy contents of TXT file into CLI, PRESS ENTER.
+
 Reboot, CALIBRATE ACCELEROMETER, customize.
+
 FLY, CRASH, REBUILD, REPEAT!
 
 
