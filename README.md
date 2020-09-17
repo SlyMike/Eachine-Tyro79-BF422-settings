@@ -28,6 +28,14 @@ FC VTX connector has the following pinout:
 3,Video 
 4,TBS SP (TX2)
 
+My flight controller arrived DOA, No SBUS channels even with 3 different recievers.
+After some time with an oscilloscope it turned out that the inverter was not working as it should.
+The quickest solution was to remove and bridge a resistor that sits between the inverter and the STM chip.
+The problem is that the inverter is pulled up too hard and the LOW signal is only 0.5v less than a high signal 
+Bridging the offending resistor allows more current to flow to the micro and restores the signal to the correct logic levels.
+Before making any changes to the FC, touch both sides of the resistor with metal tweesers whilst monitoring the channels tab in the configurator.
+See DOA SBUS FIX.jpg
+
 Usage:
 Flash FC with BF 4.2.2 (MATEKF411)
 
