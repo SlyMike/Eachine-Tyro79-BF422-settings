@@ -41,9 +41,9 @@ See DOA SBUS FIX.jpg
 Usage:
 Flash FC with BF 4.2.2 (MATEKF411)
 
-Restoring the json file in the configurator will give you the full setup including my control layout using an SBUS reciever (FRSKY XSR-M).
+Restoring the json file in the configurator will give you the setup including my control layout using an SBUS reciever (FRSKY XSR-M).
 
-Copy contents of TXT file into CLI, PRESS ENTER.
+Copy contents of TXT file into CLI to apply the differences between my setup and the default Betaflight setup. PRESS ENTER.
 
 Reboot, CALIBRATE ACCELEROMETER, customize.
 
