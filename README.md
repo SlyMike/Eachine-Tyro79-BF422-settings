@@ -1,7 +1,7 @@
 # Eachine-Tyro79-BF422-settings
 Better default starting point for configuration of new quad copter.
 
-General settings for the Eachine Mantis79 running BetaFlight 4.2.2. 
+General settings for the Eachine Tyro79 running BetaFlight 4.2.2. 
 This setup is for the newer kit including the generic flight controller with 3 pin camera connector and unlabelled 4 pin connector near LED pads.
 
 Files in this repository include: 
