@@ -70,7 +70,7 @@ vtxtable powervalues 0 1 2 3
 vtxtable powerlabels 25 100 200 300
 
 # master
-set acc_calibration = -75,4,90,1
+# set acc_calibration = -75,4,90,1
 set min_check = 1020
 set max_check = 2000
 set blackbox_device = NONE
