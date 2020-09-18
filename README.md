@@ -7,7 +7,7 @@ It's become apparent that the Tyro97 has been shipped with more than one Flight 
 https://uk.banggood.com/Eachine-Wizard-X140HV-140mm-FPV-Racing-Drone-Frame-Spare-Part-Betaflight-F4-Flight-Controller-OSD-w-or-5V-or-1A-BEC-20x20mm-p-1471337.html?gmcCountry=GB&currency=GBP&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=lijing&utm_campaign=ssc-gb-all-0804-newcustom&ad_id=454095793613&gclid=EAIaIQobChMI85ur7tfz6wIV2uDVCh2-8wS1EAEYASABEgJx_PD_BwE&cur_warehouse=CN
 
 General settings for the Eachine Tyro79 running BetaFlight 4.2.2. 
-This setup is for the newer kit including the generic flight controller with 3 pin camera connector and unlabelled 4 pin connector near LED pads.
+This setup is for the newer kit including the generic flight controller with 3 pin camera connector and unlabelled 4 pin connector(LED) near LED pads.
 
 Files in this repository include: 
 Stock PIDs and Filtering. 
@@ -48,8 +48,6 @@ Copy contents of TXT file into CLI to apply the differences between my setup and
 Reboot, CALIBRATE ACCELEROMETER, customize.
 FLY, CRASH, REBUILD, REPEAT!
 
-ToDo:
-Work out the connections on the mystery connector.
 
 
 I hope you find this project helpful, maybe it's worth a coffee?              
