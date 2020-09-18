@@ -49,7 +49,6 @@ Reboot, CALIBRATE ACCELEROMETER, customize.
 FLY, CRASH, REBUILD, REPEAT!
 
 ToDo:
-Add current ADC pad to config.
 Work out the connections on the mystery connector.
 
 
